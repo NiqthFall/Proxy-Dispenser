@@ -1,10 +1,10 @@
 {
-  "serverID": "Server ID",
+  "serverID": 1307837617915564053,
   "theme": "Hex Code",
   "limit": 3,
-  "reportsID": "Reports Channel ID",
-  "logsID": "Logging Channel ID",
-  "fail": "Requesting a proxy has changed, use <#Channel ID> to request a proxy link.",
+  "reportsID": 1307842371609952280,
+  "logsID": 1311909889060114452,
+  "fail": "Requesting a proxy has changed, use <#links-dispenser> to request a proxy link.",
   "bonus": [
     {
       "roleID": "Role ID",
